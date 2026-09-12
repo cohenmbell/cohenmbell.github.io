@@ -1,5 +1,22 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: solana # Options: trestles, jolla, solana, marquee, broadside
+  image: images/me.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/cohenmbell
+    - icon: envelope
+      text: Email
+      href: mailto:cmbell@colgate.edu
 ---
 
-About this site
+## Education
+
+I am a student at Colgate University studying Applied Mathematics. My anticipated
+graduation date is 2029.
+
+## Technical Skills
+* **Languages:** Python, R
+* **Tools:** Git/GitHub, LaTeX, Positron, Quarto
