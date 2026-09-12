@@ -1,21 +1,16 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "temp"
-  navbar:
-    left:
+  title: "Academic Portfolio"
+  favicon: images/ColgateC.png
+  sidebar:
+    logo: images/ColgateSeal.png
+    style: "docked"
+    collapse-level: 1
+    search: false
+    contents:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-
-
+        text: " Home"
+        
