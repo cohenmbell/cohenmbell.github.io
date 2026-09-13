@@ -2,7 +2,6 @@
 title: "About Me"
 about:
   template: solana # Options: trestles, jolla, solana, marquee, broadside
-  image: images/me.jpg
   links:
     - icon: github
       text: GitHub
