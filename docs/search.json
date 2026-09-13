@@ -24,20 +24,29 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029."
+    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029.",
+    "crumbs": [
+      " About"
+    ]
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
     "section": "",
-    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029."
+    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029.",
+    "crumbs": [
+      " About"
+    ]
   },
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
     "title": "About Me",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nLanguages: Python, R\nTools: Git/GitHub, LaTeX, Positron, Quarto"
+    "text": "Technical Skills\n\nLanguages: Python, R\nTools: Git/GitHub, LaTeX, Positron, Quarto",
+    "crumbs": [
+      " About"
+    ]
   }
 ]

@@ -14,7 +14,7 @@ website:
       - href: index.qmd
         text: " Home"
         icon: house
-      - href: about.gmd
+      - href: about.qmd
         text: " About"
         icon: person
       # MATH 354
