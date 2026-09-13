@@ -13,4 +13,24 @@ website:
     contents:
       - href: index.qmd
         text: " Home"
-        
+        icon: house
+      - href: about.gmd
+        text: " About"
+        icon: person
+      # MATH 354
+      - section: "Data Analysis I"
+        contents:
+          - text: "Homework 1: One Sample Inference"
+            href:
+  page-footer:
+    left: "© 2026 Colgate University Student Portfolio"
+    right: "[GitHub Source](https://github.com/cohenmbell)"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
