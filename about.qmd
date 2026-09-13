@@ -14,8 +14,7 @@ about:
 
 ## Education
 
-I am a student at Colgate University studying Applied Mathematics. My anticipated
-graduation date is 2029.
+I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029.
 
 ## Technical Skills
 * **Languages:** Python, R
