@@ -21,7 +21,6 @@ website:
       - section: "Data Analysis I"
         contents:
           - text: "Homework 1: One Sample Inference"
-            href:
   page-footer:
     left: "© 2026 Colgate University Student Portfolio"
     right: "[GitHub Source](https://github.com/cohenmbell)"
