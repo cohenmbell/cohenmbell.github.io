@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Academic Portfolio"
-  favicon: images/ColgateC.png
+  favicon: images/colgateC.png
   sidebar:
     logo: images/ColgateSeal.png
     style: "docked"
