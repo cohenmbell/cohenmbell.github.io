@@ -4,8 +4,7 @@ title: "Academic Portfolio"
 
 ## Welcome!
 
-Welcome to my portfolio website! Here you will find write-ups and analysis projects completed
-across my courses:
+Welcome to my portfolio website! Here you will find write-ups and analysis projects completed across my courses:
 
 ::: {.colgate-callout}
 **Data Analysis I (MATH 354):** Applied statistical inference, hypothesis testing, and modeling.
