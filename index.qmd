@@ -11,3 +11,7 @@ Welcome to my portfolio website! Here you will find write-ups and analysis proje
 :::
 
 Use the sidebar menu to navigate through my coursework.
+
+## AI Statement
+
+My use of generative AI is limited to furthering my understanding of the relevant topics. All of the work included in this portfolio is my own; no generative AI will be used in the planning or creation of any of the provided projects.
