@@ -20,11 +20,21 @@
     ]
   },
   {
+    "objectID": "index.html#ai-statement",
+    "href": "index.html#ai-statement",
+    "title": "Academic Portfolio",
+    "section": "AI Statement",
+    "text": "AI Statement\nMy use of generative AI is limited to furthering my understanding of the relevant topics. All of the work included in this portfolio is my own; no generative AI will be used in the planning or creation of any of the provided projects.",
+    "crumbs": [
+      " Home"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029.",
+    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation year is 2029.",
     "crumbs": [
       " About"
     ]
@@ -34,7 +44,7 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "",
-    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation date is 2029.",
+    "text": "I am a student at Colgate University studying Applied Mathematics. My anticipated graduation year is 2029.",
     "crumbs": [
       " About"
     ]
